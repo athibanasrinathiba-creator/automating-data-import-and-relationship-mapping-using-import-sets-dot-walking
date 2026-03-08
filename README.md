@@ -15,7 +15,7 @@ User Table
 Relationship Mapping using Dot Walking
 
 ## Demo Link
-https://drive.google.com/file/d/1xGm7gl262LJ9BxSX_Am_N2j4F7DDhgXL/view?usp=drive_link
+https://docs.google.com/videos/d/1DaFUdZakP03kRbJRl2T2bQ3Ugj1MP-DxXsbREKrc9TA/edit?usp=drive_link
 
 
 ## Team Project
